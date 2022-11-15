@@ -8,10 +8,10 @@
 #### [let User understand.md](letUserUnderstand.md)
 - 유저를 이해시킬 수 있는 디자인을 하라
 
-#### [define why the design is good](essay/defineWhyTheDesignIsGood.md)
+#### [define why the design is good](defineWhyTheDesignIsGood.md)
 - 디자인이 좋아보이는 이유를 정의하라
 
-#### [as user imagined](essay/asImagined.md)
+#### [as user imagined](asImagined.md)
 - 유저가 상상한 대로 이뤄지게 하라
 
 #### [imagine the user who knows nothing](ImagineUserWhoKnowsNothing.md)
