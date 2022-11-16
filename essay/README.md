@@ -33,12 +33,21 @@
 #### [grid](grid.md)
 - 항상 그리드 배치를 생각하라
 
+#### [clarity](clarity.md)
+- 명확성의 중요성
+
 #### [verticalScroll](verticalScroll.md)
 - 세로 스크롤을 고려한 디자인
 
-## the coherence
+#### [pattern](pattern.md)
+- 패턴
+
+## the grouping
 #### [coherence](coherence.md)
 - 일관성
+
+#### [alignment](alignment.md)
+- 정렬
 
 ## sense of space (공간감각)
 #### [volume](volume.md)
@@ -52,4 +61,31 @@
 
 ## the priority (우선순위)
 
+## style (스타일)
+#### [moreClear](moreClear.md)
+- 선명하게 하라
+
+#### [color](color.md)
+- 색상
+
 ## The way to deal elements (요소를 다루는 기법)
+#### [element](element.md)
+- 요소가 가져야 할 특징
+
+#### [title](title.md)
+- 제목
+
+#### [banner](banner.md)
+- 배너
+
+#### [image complexity](imageComplexity.md)
+- 이미지 복잡성을 다루는 방법
+
+#### [letter](letter.md)
+- 글자
+
+#### [paragraph](paragraph.md)
+- 문단
+
+#### [composition](composition.md)
+- 구도
