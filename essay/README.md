@@ -72,6 +72,9 @@
 #### [element](element.md)
 - 요소가 가져야 할 특징
 
+#### [contents](contents.md)
+- 컨텐츠 영역
+
 #### [title](title.md)
 - 제목
 
@@ -89,3 +92,6 @@
 
 #### [composition](composition.md)
 - 구도
+
+#### [line](line.md)
+- 선
