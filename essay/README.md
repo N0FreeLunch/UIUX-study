@@ -46,6 +46,10 @@
 #### [minimalistic techniques](minimalisticTechniques.md)
 - 최소주의 기술
 
+## The search (탐색)
+#### [hierarchy](hierarchy.md)
+- 계층구조
+
 ## the grouping
 #### [coherence](coherence.md)
 - 일관성
@@ -64,6 +68,8 @@
 - 여백
 
 ## the priority (우선순위)
+#### [highlight](highlight.md)
+- 강조
 
 ## style (스타일)
 #### [moreClear](moreClear.md)
@@ -99,3 +105,9 @@
 
 #### [line](line.md)
 - 선
+
+#### [margin](margin.md)
+- 마진
+
+#### [symbol](symbol.md)
+- 상징
