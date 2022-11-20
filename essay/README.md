@@ -42,6 +42,10 @@
 #### [pattern](pattern.md)
 - 패턴
 
+## Technology
+#### [minimalistic techniques](minimalisticTechniques.md)
+- 최소주의 기술
+
 ## the grouping
 #### [coherence](coherence.md)
 - 일관성
