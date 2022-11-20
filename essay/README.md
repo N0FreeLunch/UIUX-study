@@ -1,4 +1,4 @@
-## the basic (디자인의 기본)
+## Basics (디자인의 기본)
 #### [design motive](motive.md)
 - 디자인적 동기
 
@@ -23,7 +23,7 @@
 #### [not good greedy information](notGoodGreedyInformation.md)
 - 너무 많은 정보를 보여주는 것은 좋지 않다
 
-## the basic of web design (웹 디자인의 기본)
+## Basics of web design (웹 디자인의 기본)
 #### [the basic of web design](theBasicOfWebDesign.md)
 - 웹 디자인의 기본
 
@@ -42,13 +42,16 @@
 #### [pattern](pattern.md)
 - 패턴
 
-## Technology
+## Technology (기술)
 #### [minimalistic techniques](minimalisticTechniques.md)
 - 최소주의 기술
 
 ## The search (탐색)
 #### [hierarchy](hierarchy.md)
 - 계층구조
+
+#### [behavior flow chart](behaviorFlowChart.md)
+- 유저 행동 플로우차트
 
 ## the grouping
 #### [coherence](coherence.md)
