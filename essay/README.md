@@ -23,6 +23,9 @@
 #### [not good greedy information](notGoodGreedyInformation.md)
 - 너무 많은 정보를 보여주는 것은 좋지 않다
 
+#### [remove not necessary information](removeNotNecessaryInformation.md)
+- 불필요한 정보를 제거
+
 ## Basics of web design (웹 디자인의 기본)
 #### [the basic of web design](theBasicOfWebDesign.md)
 - 웹 디자인의 기본
