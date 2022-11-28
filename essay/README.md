@@ -56,14 +56,14 @@
 #### [behavior flow chart](behaviorFlowChart.md)
 - 유저 행동 플로우차트
 
-## the grouping
+## Grouping
 #### [coherence](coherence.md)
 - 일관성
 
 #### [alignment](alignment.md)
 - 정렬
 
-## sense of space (공간감각)
+## Sense of space (공간감각)
 #### [volume](volume.md)
 - 볼륨감
 
@@ -77,6 +77,9 @@
 #### [highlight](highlight.md)
 - 강조
 
+#### [contrast](contrast.md)
+- 대비
+
 ## style (스타일)
 #### [moreClear](moreClear.md)
 - 선명하게 하라
@@ -85,35 +88,35 @@
 - 색상
 
 ## The way to deal elements (요소를 다루는 기법)
-#### [element](element.md)
+#### [element](elements/element.md)
 - 요소가 가져야 할 특징
 
-#### [contents](contents.md)
+#### [contents](elements/contents.md)
 - 컨텐츠 영역
 
-#### [title](title.md)
+#### [title](elements/title.md)
 - 제목
 
-#### [banner](banner.md)
+#### [banner](elements/banner.md)
 - 배너
 
-#### [image complexity](imageComplexity.md)
+#### [image complexity](elements/imageComplexity.md)
 - 이미지 복잡성을 다루는 방법
 
-#### [letter](letter.md)
+#### [letter](elements/letter.md)
 - 글자
 
-#### [paragraph](paragraph.md)
+#### [paragraph](elements/paragraph.md)
 - 문단
 
-#### [composition](composition.md)
+#### [composition](elements/composition.md)
 - 구도
 
-#### [line](line.md)
+#### [line](elements/line.md)
 - 선
 
-#### [margin](margin.md)
+#### [margin](elements/margin.md)
 - 마진
 
-#### [symbol](symbol.md)
+#### [symbol](elements/symbol.md)
 - 상징
