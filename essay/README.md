@@ -45,6 +45,9 @@
 #### [pattern](pattern.md)
 - 패턴
 
+#### [contrast](contrast.md)
+- 대비
+
 ## Technology (기술)
 #### [minimalistic techniques](minimalisticTechniques.md)
 - 최소주의 기술
