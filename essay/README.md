@@ -171,3 +171,7 @@
 #### [symbol](elements/symbol.md)
 
 - 상징
+
+#### [icon](elements/icon.md)
+
+- 아이콘
